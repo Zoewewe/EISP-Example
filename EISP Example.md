@@ -15,8 +15,7 @@ Ultimately, the EISP supports the organisation’s objectives by enabling secure
 Applies to all these stakeholders:
 
 -        Board of Directors
-
-	o   Includes Members of the Board (shareholders) and Chairperson of the Board and
+	- Includes Members of the Board (shareholders) and Chairperson of the Board and
 
 -        Executive Management
 
