@@ -14,24 +14,25 @@ Ultimately, the EISP supports the organisation’s objectives by enabling secure
 
 Applies to all these stakeholders:
 
--        Board of Directors
-	- Includes Members of the Board (shareholders) and Chairperson of the Board and
+1.      Board of Directors
 
--        Executive Management
+o   Includes Members of the Board (shareholders) and Chairperson of the Board and
 
-	o   Includes C-suite executives
+2.      Executive Management
 
--        Security Steering Committee
+o   Includes C-suite executives
 
-	o   Includes IT/Security Managers, Legal/Compliance Officers Human Resources (HR) representatives, Business Unit Leaders
+3.      Security Steering Committee
 
--        CISO
+o   Includes IT/Security Managers, Legal/Compliance Officers Human Resources (HR) representatives, Business Unit Leaders
 
--        Employees
+4.      CISO
+
+5.      Employees
 
 o   Include fulltime and contract employees
 
--        Vendors and Suppliers
+6.      Vendors and Suppliers
 
 ## 5.3 Compliance
 
