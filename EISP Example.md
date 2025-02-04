@@ -14,45 +14,40 @@ Ultimately, the EISP supports the organisation’s objectives by enabling secure
 
 Applies to all these stakeholders:
 
-1.      Board of Directors
+-        Board of Directors
 
 o   Includes Members of the Board (shareholders) and Chairperson of the Board and
 
-2.      Executive Management
+-        Executive Management
 
 o   Includes C-suite executives
 
-3.      Security Steering Committee
+-        Security Steering Committee
 
 o   Includes IT/Security Managers, Legal/Compliance Officers Human Resources (HR) representatives, Business Unit Leaders
 
-4.      CISO
+-        CISO
 
-5.      Employees
+-        Employees
 
 o   Include fulltime and contract employees
 
-6.      Vendors and Suppliers
+-        Vendors and Suppliers
 
 ## 5.3 Compliance
 
 All stakeholders are required to fully comply with the EISP as a condition of their engagement with the organisation. This includes, but is not limited to:
 
--        Following security protocols and guidelines outlined in the EISP.
-
--        Participating in mandatory security awareness training and staying informed about updates to the policy.
-
--        Reporting any security incidents, vulnerabilities, or breaches promptly to the appropriate authorities within the organisation.
-
--        Ensuring that any technology, tools, or systems used for organisational purposes meet the security requirements specified in the EISP.
+- Following security protocols and guidelines outlined in the EISP.
+- Participating in mandatory security awareness training and staying informed about updates to the policy.
+- Reporting any security incidents, vulnerabilities, or breaches promptly to the appropriate authorities within the organisation.
+- Ensuring that any technology, tools, or systems used for organisational purposes meet the security requirements specified in the EISP.
 
 Failure to adhere to the EISP will result in a thorough investigation to determine the nature and extent of the violation. Depending on the severity of the damage, consequences may include, but are not limited to:
 
--        Disciplinary Action: Employees who fail to comply with the EISP may face disciplinary measures, up to and including termination of employment.
-
--        Contract Termination: Contractors, vendors, or third-party partners found in violation of the EISP may have their contracts terminated immediately, without further obligation from the organisation.
-
--        Legal Action: In cases where non-compliance results in significant harm to the organisation, its customers, or stakeholders, legal action may be pursued to recover damages or address regulatory violations.
+- Disciplinary Action: Employees who fail to comply with the EISP may face disciplinary measures, up to and including termination of employment.
+- Contract Termination: Contractors, vendors, or third-party partners found in violation of the EISP may have their contracts terminated immediately, without further obligation from the organisation.
+- Legal Action: In cases where non-compliance results in significant harm to the organisation, its customers, or stakeholders, legal action may be pursued to recover damages or address regulatory violations.
 
 All stakeholders are required to formally acknowledge their understanding of and commitment to the EISP upon onboarding and periodically thereafter. This acknowledgment serves as a binding agreement to comply with the policy and accept the consequences of non-compliance.
 
